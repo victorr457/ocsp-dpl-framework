@@ -20,20 +20,15 @@ OCSP-DPL-Framework/
 ├── requirements.txt
 ├── .gitignore
 │
-├── data/
-│   ├── input/
-│   └── results/
+├── TestSystem27/
+│   ├── TestSystem27Balanced.pfd
+│   └── TestSystem27UnBalanced.pfd
 │
-├── scripts/
-│   ├── preprocessing/
-│   ├── optimization/
-│   └── postprocessing/
+├── TestSystem33/
+│   ├── TestSystem33Balanced.pfd
+│   ├── TestSystem33Balanced.pfd
+│   
 │
-├── powerfactory/
-│   ├── projects/
-│   └── models/
-│
-├── docs/
-│   └── paper/
-│
-└── examples/
+├── TestSystem123/
+    ├── TestSystem123UnBalanced.pfd
+    
